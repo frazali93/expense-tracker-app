@@ -33,13 +33,14 @@ body{
 
   .heading{
     color: aquamarine;
+    text-align: center;
   }
   
   h1 {
     letter-spacing: 1px;
     margin: 0;
     text-align: center;
-    color: brown;
+    color: blueviolet;
   }
 
   h3 {
