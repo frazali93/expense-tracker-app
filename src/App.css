@@ -23,12 +23,13 @@ body{
 
   .container {
     margin: 30px;
-    width: 375px;
+   /* width: 375px;*/
     padding: 10px;
     background-color: slategrey;
     border-radius: 10px;
     max-width: 400px;
-    min-height: 700px;
+    margin-top: 10px;
+    
   }
 
   .heading{
