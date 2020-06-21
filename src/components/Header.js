@@ -4,7 +4,7 @@ export const Header = () => {
     return (
         <div className="heading">
             
-            <h1> Expense Tracker </h1>
+            <h2> Expense Tracker </h2>
         
         </div>
     )
